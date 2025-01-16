@@ -20,7 +20,7 @@ logLevel = logging.INFO
 
 
 # Update: 20250115
-# Link: 
+# Link: https://github.com/crifan/crifanLibPythonIDA/blob/main/CommonUtil.py
 class CommonUtil:
 
   CURRENT_LIB_FILENAME = "crifanLogging"

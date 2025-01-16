@@ -8,7 +8,7 @@ import OperandType
 import ARMUtil
 
 # Update: 20250115
-# Link: 
+# Link: https://github.com/crifan/crifanLibPythonIDA/blob/main/Operand.py
 class Operand:
   # addStr = "add"
   # addStr = "Add"

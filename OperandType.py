@@ -2,7 +2,7 @@
 # Author: Crifan Li
 
 # Update: 20250115
-# Link: 
+# Link: https://github.com/crifan/crifanLibPythonIDA/blob/main/OperandType.py
 class OperandType:
   # Operand Type
   # old doc: 

@@ -9,7 +9,7 @@ import Operand
 
 
 # Update: 20250115
-# Link: 
+# Link: https://github.com/crifan/crifanLibPythonIDA/blob/main/Instruction.py
 class Instruction:
   branchToStr = "BranchTo"
   # toStr = "to"

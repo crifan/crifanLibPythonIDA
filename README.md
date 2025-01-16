@@ -12,6 +12,9 @@ https://github.com/crifan/crifanLibPythonIDA.git
 
 Summary Crifan's IDA related Python util functions
 
+* Note
+  * old code link: https://github.com/crifan/crifanLibPython/blob/master/python3/crifanLib/thirdParty/crifanIDA.py
+
 ## Code/Files
 
 ```bash

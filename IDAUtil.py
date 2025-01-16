@@ -18,7 +18,7 @@ import ARMUtil
 import Instruction
 
 # Update: 20250115
-# Link: 
+# Link: https://github.com/crifan/crifanLibPythonIDA/blob/main/IDAUtil.py
 class IDAUtil:
   # IDA Python API:
   #   https://www.hex-rays.com/products/ida/support/idapython_docs/index.html
