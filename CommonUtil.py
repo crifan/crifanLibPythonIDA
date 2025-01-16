@@ -1,5 +1,4 @@
 # Function: Common util functions in IDA Python Plugin
-#   mainly copy from https://github.com/crifan/crifanLibPython/tree/master/python3/crifanLib
 # Author: Crifan Li
 
 import logging
@@ -19,9 +18,13 @@ logLevel = logging.INFO
 # logLevel = logging.DEBUG # for debug
 
 
-# Update: 20250115
+# Update: 20250116
 # Link: https://github.com/crifan/crifanLibPythonIDA/blob/main/CommonUtil.py
 class CommonUtil:
+  """
+    some common Python Util functions, used in IDA Python Plugin
+    mainly copy from https://github.com/crifan/crifanLibPython/tree/master/python3/crifanLib
+  """
 
   CURRENT_LIB_FILENAME = "crifanLogging"
 
