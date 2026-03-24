@@ -1,6 +1,6 @@
 # crifanLibPythonIDA
 
-* Update: `20250116`
+* Update: `20260324`
 
 ## Repo
 
@@ -37,8 +37,8 @@ Summary Crifan's IDA related Python util functions
   * AutoRename
     * https://github.com/crifan/AutoRename/blob/main/AutoRename.py
   * crifan/restore-symbol
-    * exportIDASymbol
-      * https://github.com/crifan/restore-symbol/blob/master/tools/IDAScripts/export_ida_symbol/exportIDASymbol.py
+    * idaExportSymbol
+      * https://github.com/crifan/idaExportSymbol
     * ida_search_block
       * https://github.com/crifan/restore-symbol/blob/master/tools/IDAScripts/search_oc_block/ida_search_block.py
   * crifan/dsdump
